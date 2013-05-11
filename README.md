@@ -1,0 +1,4 @@
+mines
+=====
+
+mines game demo
